@@ -4,6 +4,7 @@ LLM API documents collected by BNU-ICIP students
 ## 丘子靓：OpenAI GPT3.5 & GPT4
 
 https://platform.openai.com/ 
+--> https://github.com/iris2hu/LLM_APIs/blob/main/openai_api.ipynb
 
 ## 霍世图：ChatGLM·智谱AI
 
