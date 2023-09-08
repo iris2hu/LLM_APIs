@@ -8,7 +8,8 @@ https://platform.openai.com/
 
 ## 霍世图：ChatGLM·智谱AI
 
-http://open.bigmodel.cn/dev/api#auth 
+- API调用简易指南：ChatGLM_API_guide.ipynb
+- 智谱AI：http://open.bigmodel.cn/dev/api#auth 
 
 ## 林艺凡：文心一言·百度千帆
 
