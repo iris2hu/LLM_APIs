@@ -14,6 +14,7 @@ https://platform.openai.com/
 ## 林艺凡：文心一言·百度千帆
 
 https://cloud.baidu.com/product/wenxinworkshop
+文心一言邀您观看➡️https://github.com/iris2hu/LLM_APIs/blob/main/%E5%8D%83%E5%B8%86%C2%B7%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80_API.ipynb
 
 ## 王钰君：讯飞星火
 
