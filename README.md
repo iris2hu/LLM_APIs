@@ -17,8 +17,8 @@ https://cloud.baidu.com/product/wenxinworkshop
 
 ## 王钰君：讯飞星火
 
-https://www.xfyun.cn/doc/spark/Web.html 
-
+- https://www.xfyun.cn/doc/spark/Web.html 
+- [使用指北(点击)](https://github.com/iris2hu/LLM_APIs/blob/main/%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB%E8%AE%A4%E7%9F%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
 ## 莫凯洁：Minimax
 
 https://api.minimax.chat/
